@@ -5,5 +5,9 @@ public class GitTest {
         int i =1 ;
         System.out.println(i);
         System.out.println(i+1);
+
+
+        int j = 2 ;
+        System.out.println(j);
     }
 }
